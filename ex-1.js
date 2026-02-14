@@ -3,6 +3,10 @@ const employeeSalaries = [20005, 40000, 32000, 14500, 344000];
 
 function addSalary5000(previousSalary) {
   // Start coding here
+  for (i = 0; i < employeeSalaries.length; i++) {
+    const calculateEmpSala = employeeSalaries[i] + 5000;
+  }
+  return calculateEmpSala;
 }
 
 function forEach(array, operation) {

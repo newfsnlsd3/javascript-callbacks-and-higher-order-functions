@@ -7,10 +7,6 @@ function checkGradeOver70(score) {
   // Start coding here
 }
 
-function atLeastFive(array, operation) {
-  // Start coding here
-}
-
 // Using `atLeastFive` function here
 let scoreRoom1Result;
 let scoreRoom2Result;
